@@ -11,7 +11,7 @@ second_largest=float('-inf')
 for i in scores:
     if i>First_largest:
         Second_largest,First_largest=First_largest,i
-    elif i>Second_largest:
+    elif i>Second_largest and i!=First_largest:
         Second_Largest=i
 if Second_largest!=float('-inf'):
     print('Second Largest :',Second_largest)

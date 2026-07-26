@@ -38,4 +38,7 @@ we need to understand some things:
 8) why None keyword is used for muttable types
 9) when user passes the value to the function which has default args what happen and the default argument points to user provided value only not to default or 
    points to both default and user provided values
+10)in java there is different type of memory like heap ,constant pool  etc  each memory have different responsibility is the python follows like an java or not
+11)a=10,a=25 so the a points to both 10,25 if not points to both then how it recognize it is default provided and user provided
+12)if user provide the value to the function which has default arguments then the default argument is stop to points the default value
 '''

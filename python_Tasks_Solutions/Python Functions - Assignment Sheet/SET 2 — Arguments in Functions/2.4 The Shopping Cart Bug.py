@@ -26,7 +26,7 @@ print(add_to_cart("bag"))
 '''
 what is the difference btw given code and my code
 first thing both codes are working well but the difference is in arguments in given code the cart=[] is list which is mutable type but in my code the
-cart is not a mutable type first we need to understand what is mutable and immutable types
+cart is not a mutable type first we need to understand some things
 we need to understand some things:
 1)what is meaining for Mutable and immutable
 2) when the memory is created for default arugument

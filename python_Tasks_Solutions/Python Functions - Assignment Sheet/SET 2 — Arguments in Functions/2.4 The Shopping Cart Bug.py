@@ -41,4 +41,5 @@ we need to understand some things:
 10)in java there is different type of memory like heap ,constant pool  etc  each memory have different responsibility is the python follows like an java or not
 11)a=10,a=25 so the a points to both 10,25 if not points to both then how it recognize it is default provided and user provided
 12)if user provide the value to the function which has default arguments then the default argument is stop to points the default value
+Answers are in None_Question.md file and file path is DriveReady/python_Tasks_Solutions/Python Functions - Assignment Sheet/SET 2 — Arguments in Functions/None_Question.md
 '''
